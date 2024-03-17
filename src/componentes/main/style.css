@@ -1,4 +1,32 @@
-li{
-    decoration: none;
-    background-color: aqua;
+main{    
+    display: flex;
+    flex-direction: row;    
 }
+.produto,
+.quantidade,
+.valor_unitario,
+.total_produto,
+.botao
+{
+    width: 25%;
+    
+}
+label{
+    width: 100%;
+    height: 20px;
+    font-size: 15px;
+}
+.quantidade input,
+.valor_unitario input,
+.total_produto input{
+    width: 70px;   
+}
+
+
+.botao button{
+    width: 50%;
+    color: white;
+    font-size: 20px;
+    background-color: blue;
+}
+

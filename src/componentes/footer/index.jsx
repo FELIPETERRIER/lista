@@ -7,7 +7,7 @@ function Footer() {
    
    <footer>
         <p>Desenvolvido por Felipe Bitencourt do Valle</p>
-        <a href='https://github.com/'> <img src={Image} alt='Meu gitHub'/> </a>
+        <a href='https://github.com/'><img src={Image} alt='Meu gitHub'/> </a>
        
     </footer>
    
